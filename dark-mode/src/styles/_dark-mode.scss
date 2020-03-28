@@ -1,0 +1,57 @@
+.dark-mode {
+  background: #121212;
+
+  p {
+    color: white;
+    opacity: 87%;
+  }
+
+  .title {
+    color: #BB86FC;
+  }
+
+  .subtitle {
+    color: #03DAC6;
+  }
+
+  .is-primary {
+    background-color: #BB86FC;
+    color: black;
+  }
+
+  .is-primary:hover,
+  .is-primary:focus {
+    background-color: #BB86FC;
+    opacity: 75%;
+    color: black;
+  }
+
+  .is-link {
+    background-color: #03DAC6;
+    color: black;
+  }
+
+  .is-link:hover,
+  .is-link:focus {
+    background-color: #03DAC6;
+    opacity: 75%;
+    color: black;
+  }
+
+  input {
+    background: rgba(255, 255, 255, 0.2);
+    color: white;
+
+    &::placeholder {
+      color: white;
+    }
+
+    &:hover {
+      border-color: rgba(255, 255, 255, 0.4);
+    }
+
+    &:focus {
+      border-color: rgba(255, 255, 255, 0.6);
+    }
+  }
+}
