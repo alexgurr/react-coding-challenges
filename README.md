@@ -12,3 +12,12 @@ The scaffolding is done for you. Simply run `yarn` in any of the directories to 
 
 # What's coming next?
 I'll be adding new coding challenges as I come up with ideas! If you have any ideas I can build, contact me via www.alexgurr.com.
+
+# Contents
+## Easy
+#### Rocket Ship
+
+## Medium
+#### Dark Mode
+
+## Hard
