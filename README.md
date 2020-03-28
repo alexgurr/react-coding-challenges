@@ -16,8 +16,10 @@ I'll be adding new coding challenges as I come up with ideas! If you have any id
 # Contents
 ## Easy 😃
 #### Rocket Ship
+Unecessary re-renders, fine grained control 
 
 ## Medium 🤨
 #### Dark Mode
+State/Shared State, DOM manipulation
 
 ## Hard 😬
