@@ -1,7 +1,6 @@
 # Dark Mode Pairing/Small Coding Challenge 🌙
 
-# Difficulty: Medium
-# Time required: ~ 30 minutes
+### Difficulty: Medium | Time required: ~ 30 minutes
 
 # Requirements
 - Add dark-mode switching functionality to the *existing* dark-mode button
