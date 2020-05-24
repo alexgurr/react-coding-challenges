@@ -10,6 +10,9 @@ A series of easy -> hard React.js coding challenges.
 # How Do They Work?
 The scaffolding is done for you. Simply run `yarn` in any of the directories to start the application. Each application has a README with its requirements.
 
+# Have you got the solutions?
+I have finished/completed all the coding challenges to a high standard. If you're interested in being invited to the solutions GitHub repository, get in touch.
+
 # What's coming next?
 I'll be adding new coding challenges as I come up with ideas! If you have any ideas I can build, contact me via www.alexgurr.com.
 
