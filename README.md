@@ -3,8 +3,8 @@
 A series of easy -> hard React.js coding challenges.
 
 # When could these be useful?
-- Short coding exercises, such as in interviews
-- To test yourself/try and think of different solutions to problems
+- Usage as short coding exercises, such as for interviews
+- To test yourself/test your coding abilities under pressure
 - For beginners looking for a fun way to learn React 
 
 # How Do They Work?
