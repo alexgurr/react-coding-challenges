@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './styles/_main.scss';
-import Routes from './routes';
+import LaunchPad from './components/LaunchPad';
 
 ReactDOM.render(
-  <Routes />,
+  <LaunchPad />,
   document.getElementById('root')
 );

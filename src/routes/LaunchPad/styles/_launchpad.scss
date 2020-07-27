@@ -1,0 +1,12 @@
+$white: #ffffff;
+$midgrey: #b4b2b2;
+
+.launchpad {
+  height: 100vh;
+  width: 100vw;
+  background: linear-gradient(to bottom, $midgrey 0%, $midgrey 70%, $white 100%);
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
