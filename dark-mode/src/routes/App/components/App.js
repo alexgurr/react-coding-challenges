@@ -12,7 +12,7 @@ function App() {
         </div>
 
         {/* --The button that should toggle dark mode-- */}
-        <button className="app__dark-mode-btn icon level-right">
+        <button className="app__dark-mode-btn icon level-right"  onClick={() => document.body.classList.toggle("dark-mode")}>
           <FontAwesomeIcon icon={faMoon} />
         </button>
 
