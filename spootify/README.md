@@ -1,8 +1,6 @@
 # Spootify Coding Challenge 🎧
 
-Difficulty: Hard
-
-Time required: ~ 30-45 minutes
+### Difficulty: Hard | Time required: ~ 30-45 minutes
 
 # Goals/Outcomes ✨
 - To test knowledge of consuming APIs and handling responses
