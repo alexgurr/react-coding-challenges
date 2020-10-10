@@ -1,0 +1,73 @@
+@import '../../../../../styles/vars';
+
+.discover-block {
+  &__header {
+    display: flex;
+    align-items: center;
+    min-height: 20px;
+
+    > h2 {
+      color: $primary-grey;
+      font-size: 15px;
+      letter-spacing: 1px;
+      margin: 0;
+    }
+
+    > span {
+      background: #eee;
+      flex: 1;
+      height: 2px;
+      display: block;
+      margin-left: 20px;
+      margin-right: 20px;
+    }
+
+    > div {
+      font-size: 20px;
+      display: flex;
+
+      > svg {
+        transition: transform 0.2s ease-in-out;
+        cursor: pointer;
+        color: $primary-blue;
+
+        &:hover {
+          transform: scale(1.15);
+        }
+      }
+
+      > svg:first-of-type {
+        margin-right: 20px;
+      }
+    }
+
+    &__icon {
+      &__disabled {
+        color: unset;
+        pointer-events: none;
+      }
+    }
+  }
+
+  &__row {
+    display: flex;
+    margin-bottom: 50px;
+    width: 100%;
+    overflow-x: scroll;
+    height: 250px;
+    scroll-behavior: smooth;
+    margin-top: 20px;
+
+    &::-webkit-scrollbar {
+      display: none;
+    }
+
+    > * {
+      margin-right: 50px;
+    }
+
+    @media only screen and (max-height: 750px) {
+      margin-bottom: 20px;
+    }
+  }
+}

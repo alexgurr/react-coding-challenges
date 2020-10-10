@@ -1,0 +1,98 @@
+@import '../../../styles/vars';
+
+.sidebar {
+  min-width: 225px;
+  width: 225px;
+  background: $primary-blue;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  transition: all 0.2s ease-in-out;
+  will-change: width, min-width;
+
+  @media only screen and (max-width: 650px) {
+    width: 75px;
+    min-width: 75px;
+  }
+
+  @media only screen and (max-width: 400px) {
+    width: 50px;
+    min-width: 50px;
+  }
+
+  &__options {
+    width: 100%;
+    overflow-y: scroll;
+
+    &::-webkit-scrollbar {
+      display: none;
+    }
+  }
+
+  &__option {
+    display: flex;
+    color: white;
+    align-items: center;
+    width: 100%;
+    height: 75px;
+    min-height: 75px;
+    opacity: 0.5;
+    padding-left: 40px;
+    padding-right: 40px;
+    user-select: none;
+
+    @media only screen and (max-width: 650px) {
+      padding-left: 30px;
+    }
+
+    @media only screen and (max-width: 400px) {
+      padding-left: 17px;
+    }
+
+    > p {
+      margin: 0;
+      margin-left: 20px;
+      font-size: 18px;
+
+      @media only screen and (max-width: 650px) {
+        display: none;
+      }
+    }
+
+    &--selected {
+      opacity: 1;
+    }
+
+    &--selected {
+      pointer-events: none;
+      background: linear-gradient(to right, $secondary-blue, transparent 95%);
+    }
+  }
+
+  &__profile {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    font-weight: 300;
+    margin-bottom: 50px;
+    margin-top: 20px;
+
+    @media only screen and (max-width: 650px) {
+      > p {
+        display: none;
+      }
+    }
+
+    > svg {
+      width: 30%;
+      height: auto;
+      box-shadow: $mid-box-shadow;
+      border-radius: 50%;
+    }
+  }
+}

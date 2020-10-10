@@ -1,0 +1,131 @@
+@import '../../../styles/vars';
+
+.header {
+  height: 300px;
+  background: $secondary-orange;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  color: white;
+  letter-spacing: 1px;
+  font-weight: 300;
+  justify-content: space-between;
+  padding-right: 5%;
+  min-height: 300px;
+  margin-bottom: 50px;
+  user-select: none;
+
+  @media only screen and (max-height: 775px) {
+    height: 100px;
+    min-height: 100px;
+    margin-bottom: 30px;
+  }
+
+  @media only screen and (max-width: 750px) {
+    margin-bottom: 20px;
+  }
+
+  @media only screen and (max-width: 1300px) {
+    padding-left: 5%;
+    padding-right: unset;
+  }
+
+  @media only screen and (min-width: 415px) and (max-width: 600px) {
+    padding: 20px !important;
+    height: 100px;
+    min-height: 100px;
+  }
+
+  @media only screen and (max-width: 415px) {
+    padding: 20px !important;
+    height: auto;
+    min-height: 100px;
+  }
+
+  > div {
+    margin-left: auto;
+
+    @media only screen and (max-width: 1300px) {
+      margin-left: unset;
+    }
+
+    @media only screen and (max-width: 650px) {
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    h1, h2 {
+      font-weight: 500;
+      text-shadow: $box-shadow;
+      text-align: right;
+
+      @media only screen and (max-width: 1300px) {
+        text-align: unset;
+      }
+    }
+
+    h1 {
+      font-size: 60px;
+      margin-bottom: 10px;
+
+      @media only screen and (max-width: 600px) {
+        font-size: 24px;
+      }
+
+      @media only screen and (max-height: 775px) {
+        font-size: 24px;
+      }
+    }
+
+    h2 {
+      font-size: 45px;
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+      margin-top: 0;
+
+      @media only screen and (max-width: 1300px) {
+        justify-content: unset;
+      }
+
+      @media only screen and (max-width: 600px) {
+        font-size: 20px;
+      }
+
+      @media only screen and (max-height: 775px) {
+        font-size: 20px;
+      }
+
+      > svg {
+        margin-left: 10px;
+        margin-right: 10px;
+
+        &:first-of-type {
+          color: #FFD60B;
+        }
+      }
+
+      > svg:last-of-type {
+        color: $deep-grey;
+      }
+    }
+  }
+
+  > svg {
+    align-self: flex-end;
+    height: 150%;
+    width: auto;
+    transform: scaleX(-1);
+    margin-left: -50px;
+    margin-bottom: -60px;
+
+    @media only screen and (max-height: 775px) {
+      height: 200%;
+      margin-left: -20px;
+    }
+
+    @media only screen and (max-width: 1300px) {
+      display: none;
+    }
+  }
+}

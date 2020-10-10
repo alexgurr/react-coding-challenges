@@ -1,0 +1,58 @@
+@import '~animate.css/animate.min.css';
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700;800&display=swap');
+@import './vars';
+
+* {
+  box-sizing: border-box;
+}
+
+a,
+p,
+h1,
+h2,
+h3,
+button {
+  font-family: 'Rubik', sans-serif;
+}
+
+body {
+  margin: 0;
+  background: #F9F8FF;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+.main {
+  height: 100%;
+  display: flex;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: $mid-box-shadow;
+  position: relative;
+  background: white;
+
+  &__content {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    width: calc(100% - 225px);
+
+    &__child {
+      display: flex;
+      flex-direction: column;
+      flex: 1;
+      padding: 50px;
+      padding-top: 0;
+      padding-bottom: 100px;
+      overflow-y: scroll;
+
+      @media only screen and (max-width: 750px) {
+        padding: 20px;
+      }
+    }
+  }
+}
