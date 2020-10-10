@@ -26,5 +26,5 @@ Unecessary re-renders, fine grained control
 State/Shared State, DOM manipulation
 
 ## Hard 🤨
-#### Spootify <img src="https://img.shields.io/badge/Coming%20Soon-%F0%9F%95%92-green" />
+#### Spootify
 Loading state, API usage
