@@ -1,6 +1,6 @@
 # React Coding Challenges
 
-A series of easy -> hard React.js coding challenges.
+A series of easy through to hard, **React.js coding challenges**.
 
 # When could these be useful?
 - Usage as short coding exercises, such as for interviews
