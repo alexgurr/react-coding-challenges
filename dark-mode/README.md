@@ -1,7 +1,6 @@
 # Dark Mode Pairing/Small Coding Challenge 🌙
 
-# Difficulty: Medium
-# Time required: ~ 30 minutes
+### Difficulty: Medium | Time required: ~ 30 minutes
 
 # Requirements
 - Add dark-mode switching functionality to the *existing* dark-mode button
@@ -11,7 +10,7 @@
   - The button icon colour should be `(#FFA500)`. You can use the `color` prop on the `Icon` component.
 
 # Think about
-- How we would use Dark mode on other potential routes/components in a bigger application
+- How we would use Dark mode on other potential routes/components in a bigger application. Would your solution work for this?
 - How we can apply a class to the `html` DOM element
 
 ![screenshot-light](https://puu.sh/Fq13d/04a9e5ad48.png)
