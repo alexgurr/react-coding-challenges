@@ -6,6 +6,9 @@ function generateEmptyListEls(quantity) {
 }
 
 // TODO: Edit this file to make the the rocket takeoff
+
+// Approach 1: view rocket-ship-step-2 for a react solution
+// Approach 2: assign rocketcore a css transition / classname
 export default function RocketCore() {
   return (
     <>

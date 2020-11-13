@@ -5,6 +5,7 @@ const SECONDS_TO_TAKEOFF = 5;
 const MS_TO_TAKEOFF = SECONDS_TO_TAKEOFF * 1000;
 const FINAL_POSITION_BOTTOM_VAL = 'calc(400px)';
 
+// This continues to get called due to rerendering where timeDiff gets larger
 function timeToPositionPercent(startTime) {
   const now = Date.now();
   const timeDiff = now - startTime;
