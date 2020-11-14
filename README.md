@@ -27,4 +27,7 @@ State/Shared State, DOM manipulation
 
 ## Hard 🤨
 #### Spootify
-Loading state, API usage
+Loading state, API usage 
+
+#### Bot Chat ![soon](https://badgen.net/badge/status/coming%20soon/green?icon=)
+Web sockets, events & callbacks, hooks
