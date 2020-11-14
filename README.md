@@ -18,16 +18,16 @@ I'll be adding new coding challenges as I come up with ideas! If you have any id
 
 # Contents
 ## Easy 😃
-#### Rocket Ship
+#### 🚀 Rocket Ship
 Unecessary re-renders, fine grained control 
 
 ## Medium 😬
-#### Dark Mode
+#### 🌑 Dark Mode
 State/Shared State, DOM manipulation
 
 ## Hard 🤨
-#### Spootify
+#### 🎧 Spootify
 Loading state, API usage 
 
-#### Bot Chat ![soon](https://badgen.net/badge/status/coming%20soon/green?icon=)
+#### 🤖 Bot Chat ![soon](https://badgen.net/badge/status/coming%20soon/green?icon=)
 Web sockets, events & callbacks, hooks
