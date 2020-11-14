@@ -38,5 +38,5 @@ Some might require connection to external APIs, but all information will be prov
 I have completed all the coding challenges to a high standard. If you're interested in being invited to the solutions GitHub repository, get in touch.
 
 &nbsp;
-# Thoughts Or Feedback?
+# Thoughts Or Feedback
 Conflicting opinion about a challenge difficulty rating? Need some help or guidance? Got a challenge idea? Get in touch via www.alexgurr.com.
