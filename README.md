@@ -28,7 +28,7 @@ Web sockets, events & callbacks, hooks
 - For beginners looking for a fun way to learn React 
 
 &nbsp;
-# How Do They Work?
+# How do they work?
 The scaffolding is done for you. Simply run `yarn` in any of the directories to start the application. Each application has a README with its requirements.
 
 Some might require connection to external APIs, but all information will be provided in the inididual challenge readmes.
@@ -38,5 +38,5 @@ Some might require connection to external APIs, but all information will be prov
 I have completed all the coding challenges to a high standard. If you're interested in being invited to the solutions GitHub repository, get in touch.
 
 &nbsp;
-# Thoughts Or Feedback
+# Thoughts or feedback
 Conflicting opinion about a challenge difficulty rating? Need some help or guidance? Got a challenge idea? Get in touch via www.alexgurr.com.
