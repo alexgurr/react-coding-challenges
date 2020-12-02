@@ -18,8 +18,8 @@ State/Shared State, DOM manipulation
 #### 🎧 [Spootify](https://github.com/alexgurr/react-coding-challenges/tree/master/spootify)
 Loading state, API usage 
 
-#### 🤖 Botty ![soon](https://badgen.net/badge/status/coming%20soon/green?icon=)
-Web sockets, events & callbacks, hooks
+#### 🤖 Botty Client ![soon](https://badgen.net/badge/status/coming%20soon/green?icon=)
+Web sockets, events & callbacks, hooks. Uses the [Botty Server](https://github.com/alexgurr/botty).
 
 &nbsp;
 # When could these be useful?
