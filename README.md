@@ -19,7 +19,7 @@ State/Shared State, DOM manipulation
 Loading state, API usage 
 
 #### 🤖 Botty Client ![soon](https://badgen.net/badge/status/coming%20soon/green?icon=)
-Web sockets, events & callbacks, hooks. Uses the [Botty Server](https://github.com/alexgurr/botty).
+Web sockets, events & callbacks, hooks. Talks to [Botty](https://github.com/alexgurr/botty).
 
 &nbsp;
 # When could these be useful?
