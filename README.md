@@ -10,7 +10,7 @@ Unecessary re-renders, fine grained control
 
 &nbsp;
 ## Medium 😬
-#### 🌑 [Dark Mode](https://github.com/alexgurr/react-coding-challenges/tree/master/dark-mode)
+#### 🌙 [Dark Mode](https://github.com/alexgurr/react-coding-challenges/tree/master/dark-mode)
 State/Shared State, DOM manipulation
 
 &nbsp;
