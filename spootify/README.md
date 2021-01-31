@@ -1,6 +1,6 @@
 # Spootify Coding Challenge 🎧
 
-### Difficulty: Hard | Time required: ~ 30-45 minutes
+### Difficulty: Hard | Time required: ~ 60 minutes
 
 # Goals/Outcomes ✨
 - To test knowledge of consuming APIs and handling responses
@@ -27,7 +27,6 @@
 
 # What's Already Been Done 🏁
 - UI/UX for all elements, including previews (mobile responsive)
-- A Spotify request helper (`makeRequest.js`)
 
 # Screenshots 🌄
 
