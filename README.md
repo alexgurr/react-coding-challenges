@@ -35,7 +35,10 @@ Some might require connection to external APIs, but all information will be prov
 
 &nbsp;
 # Have you got the solutions?
-I have completed all the coding challenges to a high standard. If you're interested in being invited to the solutions GitHub repository, get in touch.
+I have completed all the coding challenges to a high standard. If you're interested in being invited to the solutions GitHub repository, get in touch with your **GitHub username**. 
+
+## Why are the solutions invite only?
+People use these challenges for interviews. By putting the solutions behind a collaboration wall/invite-only repository we can discourage candidates from simply looking up the solutions.
 
 &nbsp;
 # Thoughts or feedback
