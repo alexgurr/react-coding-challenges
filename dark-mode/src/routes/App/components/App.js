@@ -1,6 +1,6 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faMoon } from '@fortawesome/free-solid-svg-icons';
+import { faMoon, faSun } from '@fortawesome/free-solid-svg-icons';
 import '../styles/_app.scss';
 
 function App() {
@@ -14,6 +14,11 @@ function App() {
         {/* --The button that should toggle dark mode-- */}
         <button className="app__dark-mode-btn icon level-right">
           <FontAwesomeIcon icon={faMoon} />
+        </button>
+       
+        {/* --The button that should toggle light mode-- */}
+        <button className="app__light-mode-btn icon level-left">
+          <FontAwesomeIcon icon={faSun} />
         </button>
 
       </div>
@@ -41,6 +46,10 @@ function App() {
 
       <section className="section">
         <div className="buttons level-right">
+          <a className="button is-primary">Save</a>
+          <a className="button is-link">Submit</a>
+        </div>
+        <div className="buttons level-left">
           <a className="button is-primary">Save</a>
           <a className="button is-link">Submit</a>
         </div>
