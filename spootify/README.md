@@ -8,6 +8,7 @@
 
 # Pre-requisites ✅
 - Add your Spotify client ID & secret to `config.js`
+  - Note. **Never add this type of config to version control. This would usually come from your build server.**
 
 # Requirements 📖
 - Fetch and display *Released This Week* songs
