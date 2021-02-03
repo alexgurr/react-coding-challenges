@@ -1,5 +1,4 @@
 import React, {useState} from 'react';
-import ReactDOM from 'react-dom'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faMoon, faSun } from '@fortawesome/free-solid-svg-icons';
 import '../styles/_app.scss';
@@ -15,17 +14,15 @@ function App() {
     let elm = document.getElementById("pageid");
     if (isDarkMode) {
       setIsDarkMode(false);
-      elm.classList.remove("dark-mode");
       setToggleIconColor("#252524");
     } else {
       setIsDarkMode(true);
-      ReactDOM.findDOMNode(elm).classList.add("dark-mode");
       setToggleIconColor("#FFA500");
     }
   };
 
   return (
-    <div className="app" id="pageid">
+    <div className={isDarkMode ? 'app dark-mode' : 'app'}>
       <div className="level">
         <div>
           <h1 className="title">Dark Mode Challenge</h1>
