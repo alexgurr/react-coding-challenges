@@ -11,7 +11,6 @@ function App() {
 
   /* funtion to perform darkMode on/off */
   function toggleDarkMode() {
-    let elm = document.getElementById("pageid");
     if (isDarkMode) {
       setIsDarkMode(false);
       setToggleIconColor("#252524");
