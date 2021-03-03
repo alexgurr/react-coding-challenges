@@ -35,7 +35,7 @@ Some might require connection to external APIs, but all information will be prov
 
 &nbsp;
 ## Have you got the solutions?
-I have completed all the coding challenges to a high standard. Get invited to the solutions repository at at [solutions.alexgurr.com](https://www.solutions.alexgurr.com).
+I have completed all the coding challenges to a high standard. Get invited to the solutions repository at [solutions.alexgurr.com](https://www.solutions.alexgurr.com).
 
 &nbsp;
 ## Why are the solutions invite only?
