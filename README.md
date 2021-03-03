@@ -38,7 +38,7 @@ Some might require connection to external APIs, but all information will be prov
 I have completed all the coding challenges to a high standard. Get invited to the solutions repository at www.solutions.alexgurr.com/.
 
 ### Why are the solutions invite only?
-People use these challenges for interviews. By putting the solutions behind a collaboration wall/invite-only repository we can discourage candidates from simply looking up the solutions.
+People use these challenges for interviews. By putting the solutions behind a collaboration wall/invite-only repository we can discourage candidates from simply looking up the solutions. We track current/past collaborators, meaning if you want to check if a potential candidate had access/looked at the solutions you can get in touch and find out. 
 
 &nbsp;
 # Why does it take so long for updates/new challenges?
