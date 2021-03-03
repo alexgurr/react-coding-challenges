@@ -35,7 +35,7 @@ Some might require connection to external APIs, but all information will be prov
 
 &nbsp;
 # Have you got the solutions?
-I have completed all the coding challenges to a high standard. Get invited to the solutions repository at at [solutions.alexgurr.com](solutions.alexgurr.com).
+I have completed all the coding challenges to a high standard. Get invited to the solutions repository at at [solutions.alexgurr.com](https://www.solutions.alexgurr.com).
 
 ### Why are the solutions invite only?
 People use these challenges for interviews. By putting the solutions behind a collaboration wall/invite-only repository we can discourage candidates from simply looking up the solutions. We track current/past collaborators, meaning if you want to check if a potential candidate had access/looked at the solutions you can get in touch and find out. 
@@ -46,4 +46,4 @@ I work on these challenges & solutions in my spare time, on top of a full time j
 
 &nbsp;
 # Thoughts or feedback
-Conflicting opinion about a challenge difficulty rating? Need some help or guidance? Got a challenge idea? Get in touch at [alexgurr.com](alexgurr.com).
+Conflicting opinion about a challenge difficulty rating? Need some help or guidance? Got a challenge idea? Get in touch at [alexgurr.com](https://www.alexgurr.com).
