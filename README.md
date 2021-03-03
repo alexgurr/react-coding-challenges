@@ -3,7 +3,7 @@
 A series of easy through hard **React.js coding challenges**. Deep dive into the why [here](https://dev.to/alexgurr/react-coding-challenges-for-interviews-beginners-1hlk).
 
 &nbsp;
-# Current Challenges
+# The Challenges
 ## Easy 😃
 #### 🚀 [Rocket Ship](https://github.com/alexgurr/react-coding-challenges/tree/master/rocket-ship)
 Unecessary re-renders, fine grained control 
