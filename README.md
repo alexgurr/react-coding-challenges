@@ -46,4 +46,4 @@ I work on these challenges & solutions in my spare time, on top of a full time j
 
 &nbsp;
 # Thoughts or feedback
-Conflicting opinion about a challenge difficulty rating? Need some help or guidance? Got a challenge idea? Get in touch via www.alexgurr.com.
+Conflicting opinion about a challenge difficulty rating? Need some help or guidance? Got a challenge idea? Get in touch at [alexgurr.com](alexgurr.com).
