@@ -1,6 +1,6 @@
 # React Coding Challenges 👋
 
-A series of easy through hard **React.js coding challenges**. Deep dive into the why [here](https://dev.to/alexgurr/react-coding-challenges-for-interviews-beginners-1hlk).
+A series of **React.js coding challenges** with a variety of difficulties. Deep dive into the why [here](https://dev.to/alexgurr/react-coding-challenges-for-interviews-beginners-1hlk).
 
 &nbsp;
 ## The Challenges
