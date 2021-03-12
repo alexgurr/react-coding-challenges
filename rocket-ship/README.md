@@ -1,4 +1,4 @@
-# Rocket Ship Pairing/Small Coding Challenge 🚀
+# Rocket Ship Coding Challenge 🚀
 
 ### Difficulty: Easy | Time required: < 10 minutes
 
