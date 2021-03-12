@@ -1,4 +1,4 @@
-# Dark Mode Pairing/Small Coding Challenge 🌙
+# Dark Mode Coding Challenge 🌙
 
 ### Difficulty: Medium | Time required: ~ 30 minutes
 
