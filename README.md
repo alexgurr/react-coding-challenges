@@ -48,5 +48,5 @@ People use these challenges for interviews. By putting the solutions behind a co
 I work on these challenges & solutions in my spare time, on top of a full time job and all the other stuff. Because of this, I don't always get a lot of time to maintain and add new challenges. Interested in becoming a collaborator or submitting your own challenge? **Reach out below.**
 
 &nbsp;
-## Thoughts or feedback
+## Thoughts or feedback 💬
 Conflicting opinion about a challenge difficulty rating? Need some help or guidance? Got a challenge idea? Get in touch at [alexgurr.com](https://www.alexgurr.com).
