@@ -4,7 +4,7 @@ A series of **React.js coding challenges** with a variety of difficulties. Deep 
 
 &nbsp;
 ## The Challenges
-### Easy 😃
+### Easy 🙂
 ##### 🚀 [Rocket Ship](https://github.com/alexgurr/react-coding-challenges/tree/master/rocket-ship)
 Unecessary re-renders, fine grained control 
 
