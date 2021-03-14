@@ -13,13 +13,16 @@ Unecessary re-renders, fine grained control
 ##### 🌙 [Dark Mode](https://github.com/alexgurr/react-coding-challenges/tree/master/dark-mode)
 State/Shared State, DOM manipulation
 
+##### 📊 Crypton ![soon](https://badgen.net/badge/status/coming%20later/yellow?icon=)
+Data visualisation and graphing. API usage
+
 &nbsp;
 ### Hard 😬
 ##### 🎧 [Spootify](https://github.com/alexgurr/react-coding-challenges/tree/master/spootify)
 Loading state, API usage 
 
 ##### 🤖 Chatter ![soon](https://badgen.net/badge/status/coming%20soon/green?icon=)
-Web sockets, events & callbacks, hooks. Talks to [Botty](https://github.com/alexgurr/botty).
+Web sockets, events & callbacks, hooks. Talks to [Botty](https://github.com/alexgurr/botty)
 
 &nbsp;
 ## When could these be useful?
