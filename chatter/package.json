@@ -1,0 +1,45 @@
+{
+  "name": "collaborate-client",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@mdi/font": "^5.8.55",
+    "@react-hook/mouse-position": "^4.1.0",
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "animate.css": "^4.1.1",
+    "classnames": "^2.2.6",
+    "node-sass": "4.14.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-scripts": "4.0.0",
+    "socket.io-client": "^3.0.1",
+    "use-sound": "^2.0.1",
+    "web-vitals": "^0.2.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

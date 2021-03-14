@@ -1,0 +1,53 @@
+@import "styles/fonts";
+@import "~animate.css/animate.css";
+@import '~@mdi/font/scss/materialdesignicons';
+
+body {
+  margin: 0;
+  font-family: 'helveticaneue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  height: 100vh;
+  width: 100vw;
+  font-weight: 400;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+button,
+input {
+  font-family: 'helveticaneue', sans-serif;
+}
+
+input {
+  font-weight: 500;
+  font-size: 18px;
+  color: #334555;
+
+  &:focus {
+    outline: none;
+  }
+
+  &::placeholder {
+    color: #3898EB;
+  }
+}
+
+button {
+  font-weight: 500;
+}
+
+.no-margin {
+  margin: 0;
+}
+
+#root {
+  height: 100%;
+}

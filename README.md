@@ -21,8 +21,8 @@ Data visualisation and graphing. API usage
 ##### 🎧 [Spootify](https://github.com/alexgurr/react-coding-challenges/tree/master/spootify)
 Loading state, API usage 
 
-##### 🤖 Chatter ![soon](https://badgen.net/badge/status/coming%20soon/green?icon=)
-Web sockets, events & callbacks, hooks. Talks to [Botty](https://github.com/alexgurr/botty)
+##### 🤖 [Chatter](https://github.com/alexgurr/react-coding-challenges/tree/master/chatter)
+Web sockets, events, callbacks & React hooks. Talks to [Botty](https://github.com/alexgurr/botty)
 
 &nbsp;
 ## When could these be useful?

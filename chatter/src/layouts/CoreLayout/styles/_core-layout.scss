@@ -1,0 +1,13 @@
+.core {
+  display: flex;
+  align-items: center;
+  height: 100%;
+  background: #EFF8FB;
+  width: 100vw;
+  overflow-x: hidden;
+
+  > * {
+    height: 100%;
+    z-index: 2;
+  }
+}

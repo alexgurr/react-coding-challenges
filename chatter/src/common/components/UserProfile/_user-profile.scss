@@ -1,0 +1,22 @@
+.user-profile {
+  margin-right: 20px;
+  width: 60px;
+  min-width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  > p,
+  > i {
+    margin: 0;
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+  }
+
+  > i {
+    font-size: 25px;
+  }
+}
