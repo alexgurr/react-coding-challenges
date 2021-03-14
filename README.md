@@ -13,7 +13,7 @@ Unecessary re-renders, fine grained control
 ##### 🌙 [Dark Mode](https://github.com/alexgurr/react-coding-challenges/tree/master/dark-mode)
 State/Shared State, DOM manipulation
 
-##### 📊 Crypton ![soon](https://badgen.net/badge/status/coming%20later/yellow?icon=)
+##### 🐝 CoinBee ![soon](https://badgen.net/badge/status/coming%20later/yellow?icon=)
 Data visualisation and graphing. API usage
 
 &nbsp;
