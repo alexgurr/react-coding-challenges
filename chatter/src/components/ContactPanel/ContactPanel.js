@@ -23,22 +23,22 @@ export default function ContactPanel() {
       </div>
       <div className="contact-panel__body">
         <div className="contact-panel__body__block">
-          <p className="contact-panel__body__label">EMAIL</p>
+          <p className="contact-panel__body__label">Email</p>
           <p className="contact-panel__body__value">botty@reactcodingchallenges.com</p>
         </div>
         <div className="contact-panel__body__block">
-          <p className="contact-panel__body__label">PHONE</p>
+          <p className="contact-panel__body__label">Phone</p>
           <p className="contact-panel__body__value">0498365942</p>
         </div>
         <div className="contact-panel__body__block">
-          <p className="contact-panel__body__label">LABELS</p>
+          <p className="contact-panel__body__label">Labels</p>
           <div className="contact-panel__body__labels">
             <p>Bot<i className="fas fa-times" /></p>
             <p>React<i className="fas fa-times" /></p>
           </div>
         </div>
         <div className="contact-panel__body__block">
-          <p className="contact-panel__body__label">ATTACHMENTS</p>
+          <p className="contact-panel__body__label">Attachments</p>
           <div className="contact-panel__body__attachments">
             <p><i className="fas fa-paperclip" />Dataset.csv</p>
             <p><i className="far fa-image" />bot_face.jpg</p>
