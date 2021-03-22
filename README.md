@@ -1,4 +1,4 @@
-![logo](https://puu.sh/Hr1e9/d3f001cc14.png)
+![logo](https://puu.sh/Hrjcd/89376e720d.png)
 
 #
 A series of **ReactJS coding challenges** with a variety of difficulties. Deep dive into the why [here](https://dev.to/alexgurr/react-coding-challenges-for-interviews-beginners-1hlk).
