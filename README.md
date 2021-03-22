@@ -1,4 +1,4 @@
-![logo](https://puu.sh/Hrjcd/89376e720d.png)
+<img src="https://puu.sh/Hrjcd/89376e720d.png" width=500 />
 
 #
 A series of **ReactJS coding challenges** with a variety of difficulties. Deep dive into the why [here](https://dev.to/alexgurr/react-coding-challenges-for-interviews-beginners-1hlk).
