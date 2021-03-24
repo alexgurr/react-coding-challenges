@@ -51,3 +51,7 @@ I work on these challenges & solutions in my spare time, on top of a full time j
 &nbsp;
 ## Thoughts or feedback 💬
 Conflicting opinion about a challenge difficulty rating? Need some help or guidance? Got a challenge idea? Get in touch at [alexgurr.com](https://www.alexgurr.com).
+
+&nbsp;
+## Contributing 💡
+We have an [issue template](https://github.com/alexgurr/react-coding-challenges/blob/master/issue_template.md), [pull request template](https://github.com/alexgurr/react-coding-challenges/blob/master/pull_request_template.md) and a [new challenge template](https://github.com/alexgurr/react-coding-challenges/blob/master/new_challenge-template.md). We encourage you to fill out the right template and open a PR/issue!
