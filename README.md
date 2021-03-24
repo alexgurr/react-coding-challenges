@@ -7,23 +7,23 @@ A series of **ReactJS coding challenges** with a variety of difficulties. Deep d
 ## The Challenges
 ### Easy 🙂
 ##### 🚀 [Rocket Ship](https://github.com/alexgurr/react-coding-challenges/tree/master/rocket-ship)
-Unecessary re-renders, fine grained control 
+Unecessary re-renders, fine grained control.
 
 &nbsp;
 ### Medium 😐
 ##### 🌙 [Dark Mode](https://github.com/alexgurr/react-coding-challenges/tree/master/dark-mode)
-State/Shared State, DOM manipulation
+State / shared state, DOM manipulation.
 
 ##### <img width="100px" src="https://puu.sh/HoZq9/88ebf554b5.jpg" /> ![later](https://badgen.net/badge/status/coming%20later/yellow?icon=)
-Data visualisation and graphing. API usage
+Data visualisation and graphing. API usage.
 
 &nbsp;
 ### Hard 😬
 ##### 🎧 [Spootify](https://github.com/alexgurr/react-coding-challenges/tree/master/spootify)
-Loading state, API usage 
+Loading state, API usage.
 
 ##### 🤖 [Chatter](https://github.com/alexgurr/react-coding-challenges/tree/master/chatter)
-Web sockets, events, callbacks & React hooks. Talks to [Botty](https://github.com/alexgurr/botty)
+Web sockets, events, callbacks & React hooks. Talks to [Botty](https://github.com/alexgurr/botty).
 
 &nbsp;
 ## What are the challenges for?
@@ -48,7 +48,7 @@ The scaffolding of each challenges / app is done for you and each challenge has 
 All the coding challenges have been completed to a high standard. Get an automatic invite to the solutions repository at [solutions.alexgurr.com](https://www.solutions.alexgurr.com).
 
 #### Why are the solutions invite only?
-People use these challenges for interviews. By putting the solutions behind a collaboration wall / invite-only repository we can discourage candidates from simply looking up the solutions. We track current/past collaborators, meaning if you want to check if a potential candidate had access/looked at the solutions you can get in touch and find out. 
+People use these challenges for interviews. By putting the solutions behind a collaboration wall / invite-only repository we can discourage candidates from simply looking up the solutions. We track current / past collaborators, meaning if you want to check if a potential candidate had access / looked at the solutions you can get in touch and find out. 
 
 &nbsp;
 ## Why does it take so long for updates / new challenges?
@@ -60,4 +60,4 @@ Conflicting opinion about a challenge difficulty rating? Need some help or guida
 
 &nbsp;
 ## Contributing 💡
-We have an [issue template](https://github.com/alexgurr/react-coding-challenges/blob/master/issue_template.md), [pull request template](https://github.com/alexgurr/react-coding-challenges/blob/master/pull_request_template.md) and a [new challenge template](https://github.com/alexgurr/react-coding-challenges/blob/master/new_challenge_template.md). We encourage you to fill out the right template and open a PR/issue!
+We have an [issue template](https://github.com/alexgurr/react-coding-challenges/blob/master/issue_template.md), [pull request template](https://github.com/alexgurr/react-coding-challenges/blob/master/pull_request_template.md) and a [new challenge template](https://github.com/alexgurr/react-coding-challenges/blob/master/new_challenge_template.md). We encourage you to fill out the right template and open a PR / issue!
