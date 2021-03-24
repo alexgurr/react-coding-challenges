@@ -26,16 +26,22 @@ Loading state, API usage
 Web sockets, events, callbacks & React hooks. Talks to [Botty](https://github.com/alexgurr/botty)
 
 &nbsp;
-## When could these be useful?
-- Usage as short coding exercises, such as for interviews
-- To test yourself/test your coding abilities under pressure
-- For beginners looking for a fun way to learn React 
+## What are the challenges for?
+They could be:
+- Short coding exercises, for use in interviews with candidates
+- Ways for you to test yourself / test your coding abilities under pressure
+- Fun exercises to help you learn React 
 
 &nbsp;
-## How do they work?
-The scaffolding is done for you. Simply run `yarn` in any of the directories to start the application. Each application has a README with its requirements.
+## How do they work / how do I get started?
+The scaffolding of each challenges / app is done for you and each challenge has *create-react-app* as its foundation.
 
-Some might require connection to external APIs, but all information will be provided in the inididual challenge readmes.
+- Clone the whole challenges repository
+- Run `yarn` or `npm install` in any of the individual challenge directories to install dependencies
+- Run `yarn start` or `npm start` to start the application on port 3000 (CRA default)
+- Each challenge has a README with requirements for you to complete
+
+*Some challenges might require usage of external APIs, but all information will be provided in the individual challenge readme.*
 
 &nbsp;
 ## Have you got the solutions?
@@ -45,8 +51,8 @@ All the coding challenges have been completed to a high standard. Get an automat
 People use these challenges for interviews. By putting the solutions behind a collaboration wall / invite-only repository we can discourage candidates from simply looking up the solutions. We track current/past collaborators, meaning if you want to check if a potential candidate had access/looked at the solutions you can get in touch and find out. 
 
 &nbsp;
-## Why does it take so long for updates/new challenges?
-I work on these challenges & solutions in my spare time, on top of a full time job and all the other stuff. Because of this, I don't always get a lot of time to maintain and add new challenges. Interested in becoming a collaborator or submitting your own challenge? **Reach out below.**
+## Why does it take so long for updates / new challenges?
+I work on these challenges & solutions in my spare time, on top of a full time job and everything else that comes in life. Because of this, I don't always get a lot of time to maintain and add new challenges. Interested in becoming a collaborator or submitting your own challenge? **Reach out below or submit a new challenge!**
 
 &nbsp;
 ## Thoughts or feedback 💬
