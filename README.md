@@ -55,6 +55,10 @@ People use these challenges for interviews. By putting the solutions behind a co
 I work on these challenges & solutions in my spare time, on top of a full time job and everything else that comes in life. Because of this, I don't always get a lot of time to maintain and add new challenges. Interested in becoming a collaborator or submitting your own challenge? **Reach out below or submit a new challenge!**
 
 &nbsp;
+## Community ![slack-icon](https://puu.sh/Hse6N/da4145b9e1.png)
+We're on Slack - come and [join us](https://join.slack.com/t/reactcodingch-ywm3888/shared_invite/zt-o5ns0i1x-nUW_obRlBOAh2muJITqX~g)!
+
+&nbsp;
 ## Thoughts or feedback 💬
 Conflicting opinion about a challenge difficulty rating? Need some help or guidance? Got a challenge idea? Get in touch at [alexgurr.com](https://www.alexgurr.com).
 
