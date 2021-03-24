@@ -1,3 +1,5 @@
+<!-- Credit to https://github.com/EddyVerbruggen/Toast-PhoneGap-Plugin for the issue template structure --> 
+
 ## Expected behaviour
 Tell us what should happen.
 
