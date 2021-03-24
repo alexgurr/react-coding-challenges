@@ -33,3 +33,4 @@
 - [ ] I have built the solution to a good standard
 - [ ] I have added a README file with clear requirements and prerequisites
 - [ ] I have checked out the solution and made sure it runs
+- [ ] My challenge uses the latest version of ReactJS
