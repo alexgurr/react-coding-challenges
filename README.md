@@ -1,6 +1,7 @@
-# React Coding Challenges 👋
+<img src="https://puu.sh/Hrjcd/89376e720d.png" width=500 />
 
-A series of **React.js coding challenges** with a variety of difficulties. Deep dive into the why [here](https://dev.to/alexgurr/react-coding-challenges-for-interviews-beginners-1hlk).
+#
+A series of **ReactJS coding challenges** with a variety of difficulties. Deep dive into the why [here](https://dev.to/alexgurr/react-coding-challenges-for-interviews-beginners-1hlk).
 
 &nbsp;
 ## The Challenges
@@ -13,7 +14,7 @@ Unecessary re-renders, fine grained control
 ##### 🌙 [Dark Mode](https://github.com/alexgurr/react-coding-challenges/tree/master/dark-mode)
 State/Shared State, DOM manipulation
 
-##### 🐝 CoinBee ![later](https://badgen.net/badge/status/coming%20later/yellow?icon=)
+##### <img width="100px" src="https://puu.sh/HoZq9/88ebf554b5.jpg" /> ![later](https://badgen.net/badge/status/coming%20later/yellow?icon=)
 Data visualisation and graphing. API usage
 
 &nbsp;
