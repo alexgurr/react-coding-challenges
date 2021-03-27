@@ -14,7 +14,7 @@ Unecessary re-renders, fine grained control.
 ##### 🌙 [Dark Mode](https://github.com/alexgurr/react-coding-challenges/tree/master/dark-mode)
 State / shared state, DOM manipulation.
 
-##### <img width="100px" src="https://puu.sh/HoZq9/88ebf554b5.jpg" /> ![later](https://badgen.net/badge/status/coming%20later/yellow?icon=)
+##### <img width="100px" src="https://puu.sh/HoZq9/88ebf554b5.jpg" /> ![soon](https://badgen.net/badge/status/coming%20soon/green?icon=)
 Data visualisation and graphing. API usage.
 
 &nbsp;
@@ -24,6 +24,8 @@ Loading state, API usage.
 
 ##### 🤖 [Chatter](https://github.com/alexgurr/react-coding-challenges/tree/master/chatter)
 Web sockets, events, callbacks & React hooks. Talks to [Botty](https://github.com/alexgurr/botty).
+
+##### 🛒 Shoppo ![later](https://badgen.net/badge/status/coming%20later/yellow?icon=)
 
 &nbsp;
 ## What are the challenges for?
