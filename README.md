@@ -25,7 +25,7 @@ Loading state, API usage.
 ##### 🤖 [Chatter](https://github.com/alexgurr/react-coding-challenges/tree/master/chatter)
 Web sockets, events, callbacks & React hooks. Talks to [Botty](https://github.com/alexgurr/botty).
 
-##### 🛒 Shoppo ![later](https://badgen.net/badge/status/coming%20later/yellow?icon=)
+##### 🛒 Shoppit ![later](https://badgen.net/badge/status/coming%20later/yellow?icon=)
 
 &nbsp;
 ## What are the challenges for?
