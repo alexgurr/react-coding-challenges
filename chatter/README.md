@@ -1,6 +1,4 @@
-# Chatter Coding Challenge 🤖
-
-### Difficulty: Hard | Time required: ~ 60 minutes
+# Chatter Coding Challenge 🤖 &nbsp; ![hard](https://img.shields.io/badge/-Hard-red) ![time](https://img.shields.io/badge/%E2%8F%B0-60m-blue)
 
 &nbsp;
 # Goals / Outcomes ✨
@@ -53,5 +51,6 @@ We've provided `Message` components and classes. Here's some information about t
 
 &nbsp;
 # Screenshots 🌄
+&nbsp;
 ![screenshot-desktop](https://puu.sh/Hp0C2/cb14e843de.png)
 <img alt="screenshot-mobile" width=400 src="https://puu.sh/HoYEw/9b760f91f7.png" />
