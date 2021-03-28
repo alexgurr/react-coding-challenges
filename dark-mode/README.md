@@ -24,6 +24,12 @@ None
 - How we would use Dark mode on other potential routes/components in a bigger application. Would your solution work for this?
 - How we can apply a class to the `html` DOM element
 
+
+&nbsp;
+# What's Already Been Done 🏁
+- Basic app UI (mobile responsive)
+- Dark mode and light mode styles/themes
+
 &nbsp;
 # Screenshots 🌄
 ![screenshot-light](https://puu.sh/Fq13d/04a9e5ad48.png)
