@@ -31,4 +31,4 @@
 # Screenshots 🌄
 
 ![screenshot-desktop](https://puu.sh/GwPLE/3be580156a.png)
-![screenshot-mobile](https://puu.sh/GwPLS/0bcb566d23.png)
+<img alt="screenshot-mobile" width=400 src="https://puu.sh/GwPLS/0bcb566d23.png" />
