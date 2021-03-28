@@ -3,12 +3,20 @@
 ### Difficulty: Easy | Time required: < 10 minutes
 
 &nbsp;
+# Goals / Outcomes ✨
+- To test basic understanding of render lifecycles in both functional and class components
+
+&nbsp;
+# Pre-requisites ✅
+None
+
+&nbsp;
 # Requirements
 - Stop the Class rocket from taking off
 - Stop the Functional rocket from taking off
 
 &nbsp;
-# Think about
+# Think about 💡
 - How we prevent components from re-rendering
 
 &nbsp;
