@@ -3,7 +3,16 @@
 ### Difficulty: Medium | Time required: ~ 30 minutes
 
 &nbsp;
-# Requirements
+# Goals / Outcomes ✨
+- Using state and global state
+- DOM manipulation
+
+&nbsp;
+# Pre-requisites ✅
+None
+
+&nbsp;
+# Requirements 📖
 - Add dark-mode switching functionality to the *existing* dark-mode button
   - Utilise the *existing* dark-mode scss file by adding a `dark-mode` class to the root `html` element
 - When in Dark mode:
@@ -11,7 +20,7 @@
   - The button icon colour should be `(#FFA500)`. You can use the `color` prop on the `Icon` component.
 
 &nbsp;
-# Think about
+# Think about 💡
 - How we would use Dark mode on other potential routes/components in a bigger application. Would your solution work for this?
 - How we can apply a class to the `html` DOM element
 
