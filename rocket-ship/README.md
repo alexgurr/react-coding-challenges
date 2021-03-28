@@ -20,5 +20,10 @@ None
 - How we prevent components from re-rendering
 
 &nbsp;
+# What's Already Been Done 🏁
+- Functional and class rocket components
+- UI/UX and animation
+
+&nbsp;
 # Screenshots 🌄
 ![screenshot](https://puu.sh/Fq16F/1ad6edff1b.png)
