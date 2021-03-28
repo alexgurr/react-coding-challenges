@@ -47,4 +47,4 @@ We've provided `Message` components and classes. Here's some information about t
 # Screenshots 🌄
 
 ![screenshot-desktop](https://puu.sh/Hp0C2/cb14e843de.png)
-![screenshot-mobile](https://puu.sh/HoYEw/9b760f91f7.png)
+<img alt="screenshot-mobile" width=400 src="https://puu.sh/HoYEw/9b760f91f7.png" />
