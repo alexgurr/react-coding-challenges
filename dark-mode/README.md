@@ -15,5 +15,7 @@
 - How we would use Dark mode on other potential routes/components in a bigger application. Would your solution work for this?
 - How we can apply a class to the `html` DOM element
 
+&nbsp;
+# Screenshots 🌄
 ![screenshot-light](https://puu.sh/Fq13d/04a9e5ad48.png)
 ![screenshot-dark](https://puu.sh/Fq132/caa2fa0c6d.png)
