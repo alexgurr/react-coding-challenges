@@ -38,7 +38,7 @@ We've provided `Message` components and classes. Here's some information about t
 - How React contexts work
 
 # What's Already Been Done 🏁
-- Socket setup/configuration with the [Botty server](https://github.com/alexgurr/botty)
+- Socket setup/configuration with the [Botty server](https://github.com/alexgurr/botty) ([botty.alexgurr.com](https://botty.alexgurr.com))
 - All UX and UI, including for messages
 - All components, including a message and typing message component
 - A context for setting the latest message, which will change the preview in the left user list
