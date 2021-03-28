@@ -7,7 +7,7 @@ A series of **ReactJS coding challenges** with a variety of difficulties. Deep d
 &nbsp;
 
 <!-- TABLE OF CONTENTS -->
-<h2 id="table-of-contents"> :book: Table of Contents</h2>
+<h2 id="table-of-contents"> Table of Contents :book:</h2>
 
 <details open="open">
   <summary>Table of Contents</summary>
