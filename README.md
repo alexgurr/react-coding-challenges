@@ -116,9 +116,7 @@ I work on these challenges & solutions in my spare time, on top of a full time j
 &nbsp;
 
 <!-- COMMUNITY -->
-<h2 id="Community"> Community</h2> ![slack-icon](https://puu.sh/Hse6N/da4145b9e1.png)!
-
-<a href="https://puu.sh/Hse6N/da4145b9e1.png"></a>
+<h2 id="Community"> Community</h2>
 
 We're on Slack - come and [join us](https://join.slack.com/t/reactcodingch-ywm3888/shared_invite/zt-o5ns0i1x-nUW_obRlBOAh2muJITqX~g)!
 
