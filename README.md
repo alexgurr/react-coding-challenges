@@ -4,6 +4,8 @@
 
 A series of **ReactJS coding challenges** with a variety of difficulties. Deep dive into the why [here](https://dev.to/alexgurr/react-coding-challenges-for-interviews-beginners-1hlk).
 
+&nbsp;
+
 <!-- TABLE OF CONTENTS -->
 <h2 id="table-of-contents"> :book: Table of Contents</h2>
 
