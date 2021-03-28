@@ -1,6 +1,4 @@
-# Dark Mode Coding Challenge 🌙
-
-### Difficulty: Medium | Time required: ~ 30 minutes
+# Dark Mode Coding Challenge 🌙 &nbsp; ![medium](https://img.shields.io/badge/-Medium-yellow) ![time](https://img.shields.io/badge/%E2%8F%B0-30m-blue) 
 
 &nbsp;
 # Goals / Outcomes ✨
