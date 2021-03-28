@@ -1,6 +1,4 @@
-# Spootify Coding Challenge 🎧
-
-### Difficulty: Hard | Time required: ~ 60 minutes
+# Spootify Coding Challenge 🎧 &nbsp; ![hard](https://img.shields.io/badge/-Hard-red) ![time](https://img.shields.io/badge/%E2%8F%B0-60m-blue) 
 
 &nbsp;
 # Goals/Outcomes ✨
@@ -35,6 +33,6 @@
 
 &nbsp;
 # Screenshots 🌄
-
+&nbsp;
 ![screenshot-desktop](https://puu.sh/GwPLE/3be580156a.png)
 <img alt="screenshot-mobile" width=400 src="https://puu.sh/GwPLS/0bcb566d23.png" />
