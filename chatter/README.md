@@ -1,6 +1,6 @@
 # Chatter Coding Challenge 🤖
 
-### Difficulty: Hard | Time required: ~ 45 minutes
+### Difficulty: Hard | Time required: ~ 60 minutes
 
 &nbsp;
 # Goals / Outcomes ✨
