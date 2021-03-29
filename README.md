@@ -13,20 +13,20 @@ A series of **ReactJS coding challenges** with a variety of difficulties. Deep d
   <summary>Table of Contents</summary>
   <ul>
     <li>
-      <a href="#The-challenges"> ➤ The Challenges</a>
+      <a href="#The-challenges"> The Challenges</a>
       <ul>
         <li><a href="#Easy">Easy</a></li>
         <li><a href="#Medium">Medium</a></li>
         <li><a href="#Hard">Hard</a></li>
       </ul>
     </li>
-    <li><a href="#What-are-the-challenges-for?"> ➤ What are the challenges for?</a></li>
-    <li><a href="#How-do-they-work/how-do-I-get-started?"> ➤ How do they work / how do I get started?</a></li>
-    <li><a href="#Have-you-got-the-solutions?"> ➤ Have you got the solutions?</a></li>
-    <li><a href="#Why-does-it-take-so-long-for-updates/new-challenges?"> ➤ Why does it take so long for updates / new challenges?</a></li>
-    <li><a href="#Community"> ➤ Community</a></li>
-    <li><a href="#Thoughts-or-feedback"> ➤ Thoughts or feedback</a></li>
-    <li><a href="#Contributing"> ➤ Contributing</a></li>
+    <li><a href="#What-are-the-challenges-for?"> What are the challenges for?</a></li>
+    <li><a href="#How-do-they-work/how-do-I-get-started?"> How do they work / how do I get started?</a></li>
+    <li><a href="#Have-you-got-the-solutions?"> Have you got the solutions?</a></li>
+    <li><a href="#Why-does-it-take-so-long-for-updates/new-challenges?"> Why does it take so long for updates / new challenges?</a></li>
+    <li><a href="#Community"> Community</a></li>
+    <li><a href="#Thoughts-or-feedback"> Thoughts or feedback</a></li>
+    <li><a href="#Contributing"> Contributing</a></li>
   <ul>
 </details>
 
@@ -58,7 +58,7 @@ Data visualisation and graphing. API usage.
 &nbsp;
 
 <!-- HARD -->
-<h3 id="Hard "> Hard 😬</h3>
+<h3 id="Hard"> Hard 😬</h3>
 
 ##### 🎧 [Spootify](https://github.com/alexgurr/react-coding-challenges/tree/master/spootify)
 
