@@ -10,7 +10,6 @@ A series of **ReactJS coding challenges** with a variety of difficulties. Deep d
 <h2 id="table-of-contents"> Table of Contents :book:</h2>
 
 <details open="open">
-  <summary>Table of Contents</summary>
   <ul>
     <li>
       <a href="#The-challenges"> The Challenges</a>
