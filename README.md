@@ -25,7 +25,7 @@ A series of **ReactJS coding challenges** with a variety of difficulties. Deep d
   <li><a href="#Community"> Community</a></li>
   <li><a href="#Thoughts-or-feedback"> Thoughts or feedback</a></li>
   <li><a href="#Contributing"> Contributing</a></li>
-<ul>
+</ul>
 
 &nbsp;
 
