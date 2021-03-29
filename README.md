@@ -14,7 +14,7 @@ Unecessary re-renders, fine grained control.
 ##### 🌙 [Dark Mode](https://github.com/alexgurr/react-coding-challenges/tree/master/dark-mode)
 State / shared state, DOM manipulation.
 
-##### <img width="100px" src="https://puu.sh/HoZq9/88ebf554b5.jpg" /> ![soon](https://badgen.net/badge/status/coming%20soon/green?icon=)
+##### <img alt="Coinbee" width="100px" src="https://puu.sh/HoZq9/88ebf554b5.jpg" /> ![soon](https://badgen.net/badge/status/coming%20soon/green?icon=)
 Data visualisation and graphing. API usage.
 
 &nbsp;
