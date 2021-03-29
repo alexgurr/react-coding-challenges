@@ -9,23 +9,23 @@ A series of **ReactJS coding challenges** with a variety of difficulties. Deep d
 <!-- TABLE OF CONTENTS -->
 <h2 id="table-of-contents"> Table of Contents :book:</h2>
 
-  <ul>
-    <li>
-      <a href="#The-challenges"> The Challenges</a>
-      <ul>
-        <li><a href="#Easy">Easy</a></li>
-        <li><a href="#Medium">Medium</a></li>
-        <li><a href="#Hard">Hard</a></li>
-      </ul>
-    </li>
-    <li><a href="#What-are-the-challenges-for?"> What are the challenges for?</a></li>
-    <li><a href="#How-do-they-work/how-do-I-get-started?"> How do they work / how do I get started?</a></li>
-    <li><a href="#Have-you-got-the-solutions?"> Have you got the solutions?</a></li>
-   <li><a href="#Why-does-it-take-so-long-for-updates/new-challenges?"> Why does it take so long for updates / new challenges?</a </li>
-    <li><a href="#Community"> Community</a></li>
-    <li><a href="#Thoughts-or-feedback"> Thoughts or feedback</a></li>
-    <li><a href="#Contributing"> Contributing</a></li>
-  <ul>
+<ul>
+  <li>
+    <a href="#The-challenges"> The Challenges</a>
+    <ul>
+      <li><a href="#Easy">Easy</a></li>
+      <li><a href="#Medium">Medium</a></li>
+      <li><a href="#Hard">Hard</a></li>
+    </ul>
+  </li>
+  <li><a href="#What-are-the-challenges-for?"> What are the challenges for?</a></li>
+  <li><a href="#How-do-they-work/how-do-I-get-started?"> How do they work / how do I get started?</a></li>
+  <li><a href="#Have-you-got-the-solutions?"> Have you got the solutions?</a></li>
+  <li><a href="#Why-does-it-take-so-long-for-updates/new-challenges?"> Why does it take so long for updates / new challenges?</a </li>
+  <li><a href="#Community"> Community</a></li>
+  <li><a href="#Thoughts-or-feedback"> Thoughts or feedback</a></li>
+  <li><a href="#Contributing"> Contributing</a></li>
+<ul>
 
 &nbsp;
 
