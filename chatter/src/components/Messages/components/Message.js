@@ -1,9 +1,10 @@
 import React from 'react';
 import cx from 'classnames';
 
-const ME = 'me';
+import userTypes from '../constants/userTypes';
 
 export default function Message({ nextMessage, message, botTyping }) {
+  const { ME } = userTypes;
   return (
     <p
       className={cx(
