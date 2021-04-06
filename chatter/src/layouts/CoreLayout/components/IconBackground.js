@@ -16,11 +16,12 @@ function getRandomIcon() {
 function IconRow({ numberOfIcons }) {
   return (
     <div className="icon-background__row">
-      {[...new Array(numberOfIcons)].map(() => {
+      {[...new Array(numberOfIcons)].map((value, index) => {
         const icon = getRandomIcon();
 
         return (
           <i
+            key={index}
             aria-hidden="true"
             className={icon.name}
             style={{
@@ -43,8 +44,8 @@ export default function IconBackground() {
 
   return (
     <div className="icon-background">
-      {[...new Array(numberOfRows)].map(() => (
-        <IconRow numberOfIcons={numberOfElsPerRow} />
+      {[...new Array(numberOfRows)].map((value, index) => (
+        <IconRow key={index} numberOfIcons={numberOfElsPerRow} />
       ))}
     </div>
   )
