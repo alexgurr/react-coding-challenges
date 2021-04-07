@@ -28,7 +28,10 @@ Web sockets, events, callbacks & React hooks. Talks to [Botty](https://github.co
 &nbsp;
 ## Future Challenges ![later](https://badgen.net/badge/status/coming%20later/yellow?icon=)
 ##### 🛒 shopit
+A product page with a shopping cart/checkout experience.
+
 ##### 🪐 gogalaxy
+An interactive planetarium.
 
 &nbsp;
 ## What are the challenges for?
