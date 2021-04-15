@@ -3,6 +3,8 @@
 #
 A series of **ReactJS coding challenges** with a variety of difficulties. Deep dive into the why [here](https://dev.to/alexgurr/react-coding-challenges-for-interviews-beginners-1hlk).
 
+*Interested in NodeJS? Check out our [Node Coding Challenges](https://github.com/alexgurr/node-coding-challenges) (coming soon).*
+
 &nbsp;
 ## The Challenges
 ### Easy 🙂
