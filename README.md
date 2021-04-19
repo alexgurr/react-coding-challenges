@@ -63,7 +63,7 @@ People use these challenges for interviews. By putting the solutions behind a co
 
 &nbsp;
 #### Can I search for GitHub users and see if they accessed the solutions?
-Yes! We track current / past collaborators, meaning if you want to check if a potential candidate had access / looked at the solutions you can simply search for them. You can do this by clickomg the search icon in the top left at solutions.alexgurr.com and searching for them. 
+Yes! We track current / past collaborators, meaning if you want to check if a potential candidate had access / looked at the solutions you can simply search for them. You can do this by clicking the search icon in the top left at solutions.alexgurr.com and searching for them. 
 
 &nbsp;
 ## Why does it take so long for updates / new challenges?
