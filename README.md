@@ -58,7 +58,10 @@ The scaffolding of each challenges / app is done for you and each challenge has 
 All the coding challenges have been completed to a high standard. Get an automatic invite to the solutions repository at [solutions.alexgurr.com](https://www.solutions.alexgurr.com).
 
 #### Why are the solutions invite only?
-People use these challenges for interviews. By putting the solutions behind a collaboration wall / invite-only repository we can discourage candidates from simply looking up the solutions. We track current / past collaborators, meaning if you want to check if a potential candidate had access / looked at the solutions you can get in touch and find out. 
+People use these challenges for interviews. By putting the solutions behind a collaboration wall / invite-only repository we can discourage candidates from simply looking up the solutions.
+
+#### Can I search for GitHub users and see if they accessed the solutions?
+Yes! We track current / past collaborators, meaning if you want to check if a potential candidate had access / looked at the solutions you can simply click the search icon in the top left at solutions.alexgurr.com and search for someone. 
 
 &nbsp;
 ## Why does it take so long for updates / new challenges?
