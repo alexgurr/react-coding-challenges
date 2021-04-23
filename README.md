@@ -80,3 +80,9 @@ Conflicting opinion about a challenge difficulty rating? Need some help or guida
 &nbsp;
 ## Contributing 💡
 We have an [issue template](https://github.com/alexgurr/react-coding-challenges/blob/master/issue_template.md), [pull request template](https://github.com/alexgurr/react-coding-challenges/blob/master/pull_request_template.md) and a [new challenge template](https://github.com/alexgurr/react-coding-challenges/blob/master/new_challenge_template.md). We encourage you to fill out the right template and open a PR / issue!
+
+### What Makes A Good Challenge?
+- Clear requirements
+- Fun and engaging
+- Accurate difficulty level
+- Looks good
