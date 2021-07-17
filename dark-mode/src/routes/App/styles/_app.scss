@@ -1,3 +1,11 @@
+.appPage {
+  width: 100%;
+  min-height: 100vh;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+}
+
 .app {
   padding: 10%;
   max-width: 1000px;
