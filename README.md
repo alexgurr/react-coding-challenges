@@ -5,6 +5,12 @@ A series of **ReactJS coding challenges** with a variety of difficulties. Deep d
 
 *Interested in NodeJS? Check out our [Node Coding Challenges](https://github.com/alexgurr/node-coding-challenges) (coming soon).*
 
+
+&nbsp;
+## Sponsored
+
+<img src="https://www.timetoestimate.com/favicon.png" width=50 /> [Time To Estimate](https://www.timetoestimate.com). A fun, simple way for agile teams to remotely estimate tasks together. Free, with no sign-up required.
+
 &nbsp;
 ## The Challenges
 ### Easy 🙂
