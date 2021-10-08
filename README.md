@@ -11,6 +11,8 @@ A series of **ReactJS coding challenges** with a variety of difficulties. Deep d
 
 <img src="https://www.timetoestimate.com/favicon.png" width=50 /> [Time To Estimate](https://www.timetoestimate.com). A fun, simple way for agile teams to remotely estimate tasks together. Free, with no sign-up required.
 
+<img src="https://www.mixmello.com/logo512-light.png" width=50 /> [mixmello](https://www.mixmello.com). Create remixed versions of your favourite Spotify playlists.
+
 &nbsp;
 ## The Challenges
 ### Easy 🙂
