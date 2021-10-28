@@ -8,8 +8,11 @@ export default function LaunchPad() {
   setTimeout(() => { triggerRerender(rerenderCount + 1); }, 500);
 
   return (
-    <div className="launchpad">
-      <ClassRocket />
-    </div>
+    <>
+      <div className="launchpad">
+        <ClassRocket />
+        <FunctionalRocket />
+      </div>
+    </>
   );
 }

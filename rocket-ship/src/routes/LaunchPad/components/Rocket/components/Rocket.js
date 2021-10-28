@@ -7,6 +7,9 @@ export function FunctionalRocket() {
   return <RocketCore initialLaunchTime={initialLaunchTime} />;
 }
 
+// Answer 2: React.memo prevents re-render within a functional component
+export const MemorisedFunctionalRocket = React.memo(FunctionalRocket);
+
 export class ClassRocket extends Component {
   constructor() {
     super();
@@ -14,6 +17,16 @@ export class ClassRocket extends Component {
     this.state = {
       initialLaunchTime: Date.now()
     };
+  }
+
+  /**
+   * Answer 1: 
+   ShouldComponentUpdate will prevent the component from re-rendering.
+   Extending the class with PureComponent instead also would prevent re-rendering.
+   */
+
+  shouldComponentUpdate() {
+    return false;
   }
 
   render() {
