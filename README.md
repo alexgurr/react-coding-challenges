@@ -40,9 +40,6 @@ Web sockets, events, callbacks & React hooks. Talks to [Botty](https://github.co
 ##### 🛒 shopit
 A product page with a shopping cart/checkout experience.
 
-##### 🪐 gogalaxy
-An interactive planetarium.
-
 &nbsp;
 ## What are the challenges for?
 They could be:
