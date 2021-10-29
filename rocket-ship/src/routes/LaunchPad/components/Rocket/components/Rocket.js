@@ -8,8 +8,8 @@ export function FunctionalRocket() {
 }
 
 export class ClassRocket extends Component {
-  constructor() {
-    super();
+  constructor(props) {
+    super(props);
 
     this.state = {
       initialLaunchTime: Date.now()

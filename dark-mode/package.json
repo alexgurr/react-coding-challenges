@@ -2,18 +2,18 @@
   "name": "dark-mode",
   "version": "1.0.0",
   "private": true,
+  "engines": {
+    "node" : ">= 15.0.0"
+  },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.35",
     "@fortawesome/free-solid-svg-icons": "^5.15.3",
     "@fortawesome/react-fontawesome": "^0.1.14",
-    "@testing-library/jest-dom": "^4.2.4",
-    "@testing-library/react": "^9.5.0",
-    "@testing-library/user-event": "^7.2.1",
     "bulma": "^0.8.2",
-    "node-sass": "^4.14.1",
-    "react": "^16.14.0",
-    "react-dom": "^16.14.0",
-    "react-scripts": "^4.0.3"
+    "sass": "^1.43.4",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3"
   },
   "scripts": {
     "start": "react-scripts start",
