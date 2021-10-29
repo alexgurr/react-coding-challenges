@@ -32,4 +32,4 @@ None
 # Screenshots 🌄
 &nbsp;
 ![screenshot-light](https://puu.sh/Fq13d/04a9e5ad48.png)
-![screenshot-dark](https://puu.sh/Fq132/caa2fa0c6d.png)
+![screenshot-dark](https://puu.sh/Ilwao/795ef304a2.png)
