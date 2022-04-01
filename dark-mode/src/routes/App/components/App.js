@@ -1,9 +1,21 @@
-import React from 'react';
+import React, { useContext, useMemo } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faMoon } from '@fortawesome/free-solid-svg-icons';
+import { faMoon, faSun } from '@fortawesome/free-solid-svg-icons';
+import AppContext from '../../../context/AppContext';
+import APPTHEME from '../../../constant/appTheme';
 import '../styles/_app.scss';
 
 function App() {
+  const { state, dispatch } = useContext(AppContext);
+
+  const themeIcon = useMemo(() => state.theme === APPTHEME.LIGHT ? faMoon : faSun, [state.theme])
+
+  const changeTheme = () => {
+    dispatch({
+      type: state.theme === APPTHEME.LIGHT ? 'setDarkTheme' : 'setLightTheme'
+    })
+  }
+
   return (
     <div className="app">
       <div className="level">
@@ -12,8 +24,10 @@ function App() {
         </div>
 
         {/* --The button that should toggle dark mode-- */}
-        <button className="app__dark-mode-btn icon level-right">
-          <FontAwesomeIcon icon={faMoon} />
+        <button
+          className={['app__theme-btn icon level-right ', state.theme === APPTHEME.DARK ? 'app__theme-btn__dark-mode' : ''].join('')}
+          onClick={changeTheme}>
+          <FontAwesomeIcon icon={themeIcon} />
         </button>
 
       </div>

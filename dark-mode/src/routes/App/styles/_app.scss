@@ -7,7 +7,7 @@
   margin: auto;
   box-sizing: content-box;
 
-  &__dark-mode-btn {
+  &__theme-btn {
     border: 0;
     background: transparent;
     font-size: 30px;
@@ -20,6 +20,10 @@
 
     &:focus {
       outline: none;
+    }
+
+    &__dark-mode {
+      color: #FFA500;
     }
   }
 
