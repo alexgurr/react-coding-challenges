@@ -1,6 +1,12 @@
 <img src="https://puu.sh/HyrmV/95c458d9d9.png" width=500 />
 
 #
+&nbsp;
+### ⭐️ Looking for collaborators ⭐️
+We're looking for people to come and help work on the latest challenge **Coinbee**. If you're interested, get in touch via our slack community or via my website [alexgurr.com](https://alexgurr.com)!
+
+&nbsp;
+#
 A series of **ReactJS coding challenges** with a variety of difficulties. Deep dive into the why [here](https://dev.to/alexgurr/react-coding-challenges-for-interviews-beginners-1hlk).
 
 Interested in some React fundamentals / philosophies? Check out the [react-philosophies](https://github.com/mithi/react-philosophies) GitHub repo.
