@@ -2,13 +2,14 @@
   "name": "rocket-ship",
   "version": "1.0.0",
   "engines": {
-    "node" : ">= 15.0.0"
+    "node": ">= 15.0.0"
   },
   "dependencies": {
-    "sass": "^1.43.4",
+    "gsap": "^3.10.4",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-scripts": "4.0.3"
+    "react-scripts": "4.0.3",
+    "sass": "^1.43.4"
   },
   "scripts": {
     "start": "react-scripts start",

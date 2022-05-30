@@ -1,5 +1,7 @@
-import React from 'react';
+import React,  { useState,useRef } from 'react';
 import '../styles/_rocket.scss';
+import {gsap} from 'gsap';
+
 
 const SECONDS_TO_TAKEOFF = 5;
 const MS_TO_TAKEOFF = SECONDS_TO_TAKEOFF * 1000;
@@ -16,12 +18,26 @@ function timeToPositionPercent(startTime) {
 
 function generateEmptyListEls(quantity) {
   return [...Array(quantity)].map(() => <li />);
+  
 }
 
 export default function RocketCore({ initialLaunchTime }) {
+// crear una referenca al elemento
+  let rocket= useRef(null)
+
+
+// usar una api para que el cohete pueda moverse y volver a su lugar 
+  function moverRocket(){
+
+    gsap.to(rocket,{duration:3,y:-900})
+    gsap.to(rocket,{delay:4,duration:0.1,y:0})
+  }
+
+
   return (
     <>
-      <div className="rocket" style={{ bottom: timeToPositionPercent(initialLaunchTime) }}>
+    <button onClick={moverRocket}>Inicio</button>
+      <div className="rocket" ref={el=>rocket=el} >
         <div className="rocket__body">
           <div className="rocket__body__main"/>
           <div className="rocket__body__fin rocket__body__fin__left"/>
@@ -39,3 +55,4 @@ export default function RocketCore({ initialLaunchTime }) {
     </>
   );
 }
+
