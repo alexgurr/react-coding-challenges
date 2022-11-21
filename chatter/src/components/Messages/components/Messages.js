@@ -24,19 +24,38 @@ function Messages() {
   useEffect(() => {
     socket.on("bot-typing", () => {
       setBotTyping(true);
-    });
-
-    socket.on("bot-message", (msg) => {
-      setBotTyping(false);
-      console.log("message: " + msg);
       setMessageList([
         ...messageList,
         {
-          user: "bot",
-          id: "id" + new Date().getTime(),
-          message: msg,
+          message: {
+            user: "bot",
+            id: "id" + new Date().getTime(),
+            message: null,
+          },
+          botTyping: true
         },
       ]);
+    });
+
+    socket.on("bot-message", (msg) => {
+      playReceive();
+      setBotTyping(false);
+      setMessageList([
+        ...messageList,
+        {
+          message: {
+            user: "bot",
+            id: "id" + new Date().getTime(),
+            message: msg,
+          },
+          botTyping: false,
+          nextMessage: {
+            user: "bot"
+          }
+        },
+      ]);
+
+      setLatestMessage("charles", msg);
     });
   }, []);
 
@@ -52,14 +71,22 @@ function Messages() {
   // handle send message
   const handleSendMessage = () => {
     socket.emit("user-message", message);
+    playSend();
     setMessageList([
       ...messageList,
       {
-        user: "me",
-        id: "id" + new Date().getTime(),
-        message,
+        message: {
+          user: "me",
+          id: "id" + new Date().getTime(),
+          message,
+        },
+        botTyping: false,
+        nextMessage: {
+          user: "me"
+        }
       },
     ]);
+    setLatestMessage("charles", message);
     setMessage("");
   };
 
@@ -67,9 +94,13 @@ function Messages() {
     <div className="messages">
       <Header />
       <div className="messages__list" id="message-list">
-        {
-          messageList.map((data, index) => <Message message={data.message} key={index}/>)
-        }
+        {messageList.map((data, index) => (
+          <Message
+            message={data.message}
+            botTyping={data.botTyping}
+            key={index}
+          />
+        ))}
       </div>
       <Footer
         message={message}
