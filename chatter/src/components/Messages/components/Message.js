@@ -10,9 +10,9 @@ export default function Message({ nextMessage, message, botTyping }) {
         'messages__message',
         'animate__animated animate__rubberBand',
         {
-          'messages__message--me': message.user === ME,
-          'messages__message--last': (!nextMessage && (!botTyping || message.user === ME))
-            || (nextMessage && nextMessage.user !== message.user)
+          'messages__message--me': message?.user === ME,
+          'messages__message--last': (!nextMessage && (!botTyping || message?.user === ME))
+            || (nextMessage && nextMessage?.user !== message?.user)
         }
       )}
       key={message.id}
