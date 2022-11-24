@@ -6,7 +6,7 @@ export default function Footer({ sendMessage, onChangeMessage, message }) {
   const onKeyDown = ({ keyCode }) => {
     if (keyCode !== RETURN_KEY_CODE ) { return; }
 
-    sendMessage();
+    sendMessage(message);
   }
 
   return (
@@ -21,7 +21,7 @@ export default function Footer({ sendMessage, onChangeMessage, message }) {
         <i className="far fa-smile" />
         <i className="fas fa-paperclip" />
         <i className="mdi mdi-ticket-outline" />
-        <button onClick={sendMessage} disabled={!message}>Send</button>
+        <button onClick={()=>sendMessage(message)} disabled={!message}>Send</button>
       </div>
     </div>
   );
